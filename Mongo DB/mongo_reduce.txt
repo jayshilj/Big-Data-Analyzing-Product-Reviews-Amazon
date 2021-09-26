@@ -1,0 +1,9 @@
+function(key,value)
+{
+var count = 0 ;
+for(var i = 0 ; i<value.length ; i++)
+{
+count ++;
+}
+return count ;
+}
